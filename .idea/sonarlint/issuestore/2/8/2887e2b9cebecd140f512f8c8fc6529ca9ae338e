@@ -1,0 +1,32 @@
+
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(„Ù©8‡°²¯ç/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(êíŠÊüÿÿÿÿ8 °²¯ç/
+I
+java:S2440"'Remove this instantiation of "Reverse".(ıêããÿÿÿÿÿ8Ú°²¯ç/
+W
+java:S2209"5Change this instance-reference to a static reference.(˜±èùÿÿÿÿ8±²¯ç/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(õ–Õ˜8’±²¯ç/
+H
+java:S2440"&Remove this instantiation of "Append".(Ì÷šüÿÿÿÿ8–±²¯ç/
+W
+java:S2209"5Change this instance-reference to a static reference.(™Ñ¼­üÿÿÿÿ8™±²¯ç/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(º½óşøÿÿÿÿ8±²¯ç/
+F
+java:S2440")Remove this instantiation of "FindIndex".(ò¯’ó8¢±²¯ç/
+R
+java:S2209"5Change this instance-reference to a static reference.(”ß®€8¥±²¯ç/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ç¤›©úÿÿÿÿ8¨±²¯ç/
+W
+java:S1118%":Add a private constructor to hide the implicit public one.(Ä‘ƒé8®±²¯ç/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(‚¹î‹ùÿÿÿÿ8Ù±²¯ç/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(¡«‹´8ß±²¯ç/
+\
+java:S1118-":Add a private constructor to hide the implicit public one.(†Ò¢³şÿÿÿÿ8ä±²¯ç/
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(‚¹î‹ùÿÿÿÿ8î±²¯ç/
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(²´ì”8ó±²¯ç/
+W
+java:S11186":Add a private constructor to hide the implicit public one.(²ıÚÒ8ø±²¯ç/
+T	java:S106>"9Replace this use of System.out or System.err by a logger.(™Õ¯=8‹²²¯ç/
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(°Ø÷Íûÿÿÿÿ8²²¯ç/
+0
+java:S1220""Move this file to a named package.
