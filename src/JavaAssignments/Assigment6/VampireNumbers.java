@@ -1,6 +1,6 @@
 package JavaAssignments.Assigment6;
 
-class Assignment6
+class VampireNumbers
 {
     public static void main(String[] args)
     {
