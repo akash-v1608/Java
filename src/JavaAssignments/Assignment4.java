@@ -31,8 +31,7 @@ public class Assignment4 {
         calendar.setTime(kycDate);
         int kycYear= calendar.getWeekYear();
         calendar.setTime(registrationDate);
-        int temp=calendar.getWeekYear();
-        calendar.add(calendar.YEAR,kycYear-temp);
+        calendar.set(calendar.YEAR,kycYear);
         calendar.add(calendar.DATE,-30);
         String startDate=simpleDateFormat.format(calendar.getTime());
         calendar.add(calendar.DATE,60);
