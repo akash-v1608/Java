@@ -9,4 +9,10 @@ public class SLNode <t>{
         this.data=data;
         this.next=next;
     }
+    public String toString() {
+        if(data != null){
+            return data.toString();
+        }
+        return null;
+    }
 }

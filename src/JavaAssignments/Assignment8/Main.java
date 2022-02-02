@@ -7,6 +7,7 @@ public class Main {
         {
             Form form=new Form();
             form.fillForm("akash","akash","16-08-2000");
+            System.out.println("form submitted succesfully");
         }
        catch(Exception e)
        {
